@@ -1,0 +1,34 @@
+========================================================================
+  UMNIK — kak zapustit na drugom kompyutere
+========================================================================
+
+1. Raspakuyte arhiv v KOREN diska, naprimer:
+      D:\Umnik
+   ili E:\Umnik
+
+   Ne kladite v "Dokumenty" i ne v put s russkimi bukvami ili probelami.
+
+2. Esli arhiv skachali iz interneta / oblaka:
+   pravoy knopkoy po papke Umnik -> Svoystva ->
+   vnizu "Razblokirovat" -> OK
+   (inache Windows mozhet blokirovat .bat)
+
+3. Zapustite PROVERKA.bat
+   On nichego ne menyaet. Vnizu dolzhno byt: VSYO NA MESTE.
+
+4. Zapustite umnik.bat
+   Pervyy zapusk 1-3 minuty (zagruzka modeley).
+   Kogda poyavitsya zelenoe "Gotovo" — mozhno sprashivat.
+
+------------------------------------------------------------------------
+NUZHNO NA KOMPYUTERE
+------------------------------------------------------------------------
+- Windows 64-bit
+- Videokarta NVIDIA + drayver s nvidia.com
+  (edinstvennoe, chto nelzya polozhit v papku)
+- Svobodno ~6+ GB videopamyati (zakroyte brauzer, esli tormozit)
+
+Python, modeli i llama.cpp UZHE vnutri papki — stavit nichego ne nado.
+
+Podrobnee: CHITAY-MENYA.txt
+========================================================================

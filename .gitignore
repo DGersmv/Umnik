@@ -1,0 +1,30 @@
+# Heavy runtime (stay on server / local disk)
+models/
+python/
+llama/
+wheels/
+
+# Logs and caches
+logs/
+**/__pycache__/
+*.pyc
+.cache/
+
+# Thunderbird portable + personal profile (secrets)
+thunderbird/
+
+# Pack artifacts
+Umnik-portable.zip
+Umnik-pack-staging/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+db/.lock
+*.lock
